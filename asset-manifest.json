@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YashmeetSinghPunjabi/planWithYashmeet/static/css/main.decdb0db.css",
+    "main.js": "/YashmeetSinghPunjabi/planWithYashmeet/static/js/main.e42aa7af.js",
+    "index.html": "/YashmeetSinghPunjabi/planWithYashmeet/index.html",
+    "main.decdb0db.css.map": "/YashmeetSinghPunjabi/planWithYashmeet/static/css/main.decdb0db.css.map",
+    "main.e42aa7af.js.map": "/YashmeetSinghPunjabi/planWithYashmeet/static/js/main.e42aa7af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.e42aa7af.js"
+  ]
+}
